@@ -36,10 +36,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 src="https://img.shields.io/twitter/follow/_petrjoe_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+<img src="https://komarev.com/ghpvc/?username=petrjoe&style=flat-square&color=blue" alt=""/>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/petrjoe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=petrjoe&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
