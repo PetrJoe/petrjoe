@@ -17,8 +17,8 @@ Besides coding, I also curate and create articles and write ups. Take a look at 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Puthon](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=django&logoColor=white)
+![Puthon](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django-%231572B6.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ## 🤝 Contact Me
 
@@ -64,28 +64,6 @@ Besides coding, I also curate and create articles and write ups. Take a look at 
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Hi there 👋
 
 <!--
 **PetrJoe/petrjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -101,8 +79,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 
 ====================================================================================================================================
 -----------------------------
