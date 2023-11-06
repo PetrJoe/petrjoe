@@ -94,10 +94,6 @@ Here are some ideas to get you started:
 
 * ⚡ I'm open to collaborating on Front end projects.
 
-<a href="https://www.twitter.com/_petrjoe_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/_petrjoe_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 <img src="https://komarev.com/ghpvc/?username=petrjoe&style=flat-square&color=blue" alt=""/>
 
 ### Badges
