@@ -45,18 +45,18 @@
   <a href="https://www.linkedin.com/in/akanmu-akinkunmi-joseph" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
   </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
+  <a href="https://twitter.com/_PetrJoe_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter Logo" />
   </a>
-  <a href="https://www.facebook.com/your-profile" target="_blank">
+  <a href="https://www.facebook.com/coin09o" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook Logo" />
   </a>
-  <a href="https://www.reddit.com/user/your-profile" target="_blank">
+<!--   <a href="https://www.reddit.com/user/your-profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Reddit Logo" />
   </a>
   <a href="https://www.pinterest.com/your-profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=E60023&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Pinterest Logo" />
-  </a>
+  </a> -->
 </div>
 
 ###
