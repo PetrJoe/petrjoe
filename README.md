@@ -6,6 +6,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PetrJoe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats Graph"  />
 </div>
 
+<a href="https://github.com/petrjoe/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=petrjoe" />
+</a>
+<a href="https://github.com/petrjoe/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=petrjoe&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrjoe&layout=donut)](https://github.com/petrjoe/github-readme-stats)
+
+
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
