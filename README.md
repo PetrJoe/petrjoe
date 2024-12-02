@@ -39,7 +39,7 @@
 </div>
 
 ![](https://komarev.com/ghpvc/?username=petrjoe&style=flat-square)
-
+[![wakatime](https://wakatime.com/badge/user/018d2726-8554-4c7c-929d-a428b53da15f.svg)](https://wakatime.com/@018d2726-8554-4c7c-929d-a428b53da15f)
 ###
 
 <div align="left">
