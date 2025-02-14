@@ -14,7 +14,7 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrjoe&layout=donut)](https://github.com/petrjoe/github-readme-stats)
-
+<a href="https://app.daily.dev/petrjoe"><img src="https://api.daily.dev/devcards/v2/Gzl9Ofte3vtWu0HvLP45k.png?r=5n5&type=wide" width="652" alt="Akanmu Akinkunmi Joseph's Dev Card"/></a>
 
 ###
 
