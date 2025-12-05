@@ -1,87 +1,125 @@
-<h2 align="left">Hi 👋! My name is Akanmu Akinkunmi and I'm a Software Engineer from Nigeria</h2>
+<h1 align="center">Hi 👋, I'm Akanmu Akinkunmi</h1>
+<h3 align="center">A passionate Software Engineer from Nigeria 🇳🇬</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=petrjoe&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://wakatime.com/@018d2726-8554-4c7c-929d-a428b53da15f">
+    <img src="https://wakatime.com/badge/user/018d2726-8554-4c7c-929d-a428b53da15f.svg" alt="Wakatime" />
+  </a>
+  <a href="https://codetime.dev">
+    <img src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D27213%26project%3D%26in=0" alt="CodeTime" />
+  </a>
+</p>
+
+## 👨‍💻 About Me
+
+I specialize in building **scalable** and **efficient** web applications with a strong background in both **front-end** and **back-end** development. My goal is to create innovative solutions that solve real-world problems and enhance user experiences.
+
+- 🔭 I'm currently working on **School Management Systems** and **Web Applications**
+- 🌱 I'm currently learning **Advanced React Patterns** and **Cloud Architecture**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, Python, and Web Development**
+- 📫 How to reach me: **akinjossy1298@gmail.com**
+- ⚡ Fun fact: I love solving complex problems with elegant solutions
+
+<br/>
+
+## 🛠️ Tech Stack
+
+### Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+</div>
+
+### Frontend Development
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS" />
+</div>
+
+### Backend Development
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="FastAPI" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express" />
+</div>
+
+### Database & Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PetrJoe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats Graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=PetrJoe&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-<a href="https://github.com/petrjoe/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=petrjoe" />
-</a>
-<a href="https://github.com/petrjoe/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=petrjoe&layout=compact&langs_count=8&card_width=320" />
-</a>
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrjoe&layout=donut)](https://github.com/petrjoe/github-readme-stats)
-<a href="https://app.daily.dev/petrjoe"><img src="https://api.daily.dev/devcards/v2/Gzl9Ofte3vtWu0HvLP45k.png?r=5n5&type=wide" width="652" alt="Akanmu Akinkunmi Joseph's Dev Card"/></a>
+## 📈 Activity Graph
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript Logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript Logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 Logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 Logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python Logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# Logo" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PetrJoe&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-![](https://komarev.com/ghpvc/?username=petrjoe&style=flat-square)
-[![wakatime](https://wakatime.com/badge/user/018d2726-8554-4c7c-929d-a428b53da15f.svg)](https://wakatime.com/@018d2726-8554-4c7c-929d-a428b53da15f)
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D27213%26project%3D%26in=0)](https://codetime.dev)
-###
+<br/>
 
-<div align="left">
-  <a href="https://www.youtube.com/@petrjoe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube Logo" />
-  </a>
-  <a href="https://www.instagram.com/_petrjoe_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram Logo" />
-  </a>
-  <a href="mailto:akinjossy1298@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Logo" />
-  </a>
+## 📫 Connect with Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/akanmu-akinkunmi-joseph" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/_PetrJoe_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter Logo" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" />
+  </a>
+  <a href="mailto:akinjossy1298@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.youtube.com/@petrjoe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
+  </a>
+  <a href="https://www.instagram.com/_petrjoe_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/coin09o" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook Logo" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
   </a>
-<!--   <a href="https://www.reddit.com/user/your-profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Reddit Logo" />
+  <a href="https://app.daily.dev/petrjoe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=daily.dev&logo=dailydotdev&label=&color=CE3DF3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="daily.dev" />
   </a>
-  <a href="https://www.pinterest.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=E60023&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Pinterest Logo" />
-  </a> -->
 </div>
 
-###
+<br/>
 
-<br clear="both">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
 
-### About Me
+---
 
-I am a passionate Software Engineer with expertise in JavaScript, TypeScript, React, HTML5, CSS3, Python, and NodeJs. I enjoy building scalable and efficient web applications and have a strong background in both front-end and back-end development. My goal is to create innovative solutions that solve real-world problems and enhance user experiences.
-
-### Key Skills
-
-- **Front-End Development:** JavaScript, React, HTML5, CSS3
-- **Back-End Development:** Python, Javascript
-- **Version Control:** Git
-- **Project Management:** Agile, Scrum
-- **Databases:** SQL, NoSQL
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/PetrJoe">PetrJoe</a></i>
+</p>
